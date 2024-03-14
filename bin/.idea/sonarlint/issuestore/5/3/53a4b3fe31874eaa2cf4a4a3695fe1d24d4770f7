@@ -1,0 +1,20 @@
+
+g	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·Ù¤®Þ1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Error: " 3 times.(½ñÄÞüÿÿÿÿ8¹Ù¤®Þ1
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8ÇÙ¤®Þ1
+l
+java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ŒöºÒ8ÇÙ¤®Þ1
+i
+java:S2095Y"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8ÇÙ¤®Þ1
+i
+java:S2095:"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ8ÇÙ¤®Þ1
+ž
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŠúØ¯8ÈÙ¤®Þ1
+ž
+java:S1186R"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªêÊ»8ÈÙ¤®Þ1
+L	java:S106"+Replace this use of System.out by a logger.(½ñÄÞüÿÿÿÿ8ÊÙ¤®Þ1
+G	java:S106!"+Replace this use of System.out by a logger.(ñ·¤¬8ËÙ¤®Þ1
+L	java:S106F"+Replace this use of System.out by a logger.(½ñÄÞüÿÿÿÿ8ÏÙ¤®Þ1
+L	java:S106]"+Replace this use of System.out by a logger.(½ñÄÞüÿÿÿÿ8ÐÙ¤®Þ1

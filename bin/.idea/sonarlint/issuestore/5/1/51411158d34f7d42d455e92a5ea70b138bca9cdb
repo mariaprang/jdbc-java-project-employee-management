@@ -1,0 +1,11 @@
+
+u
+java:S1104"XMake CREATE_TABLE a static final constant or non-public and provide accessors if needed.(ß§É¾8ç÷¯­Þ1
+O
+java:S1444"2Make this "public static CREATE_TABLE" field final(ß§É¾8è÷¯­Þ1
+t
+java:S3008"WRename this field "CREATE_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß§É¾8Üé­­Þ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¹©·åùÿÿÿÿ8Ýé­­Þ1
+O
+java:S6126"2Replace this String concatenation with Text block.(ß§É¾8Þé­­Þ1

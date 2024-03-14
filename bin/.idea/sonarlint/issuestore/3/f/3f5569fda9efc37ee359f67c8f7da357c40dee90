@@ -1,0 +1,29 @@
+
+u
+java:S1104"XMake CREATE_TABLE a static final constant or non-public and provide accessors if needed.(ß§É¾8øÔ ®Þ1
+y
+java:S1104"WMake INSERT_INTO a static final constant or non-public and provide accessors if needed.(¥ùùÑüÿÿÿÿ8øÔ ®Þ1
+x
+java:S1104"VMake SELECT_ALL a static final constant or non-public and provide accessors if needed.(¹üü²øÿÿÿÿ8øÔ ®Þ1
+s
+java:S1104"VMake DROP_TABLE a static final constant or non-public and provide accessors if needed.(ÿÿ÷—8øÔ ®Þ1
+O
+java:S1444"2Make this "public static CREATE_TABLE" field final(ß§É¾8øÔ ®Þ1
+S
+java:S1444"1Make this "public static INSERT_INTO" field final(¥ùùÑüÿÿÿÿ8øÔ ®Þ1
+R
+java:S1444"0Make this "public static SELECT_ALL" field final(¹üü²øÿÿÿÿ8øÔ ®Þ1
+M
+java:S1444"0Make this "public static DROP_TABLE" field final(ÿÿ÷—8øÔ ®Þ1
+t
+java:S3008"WRename this field "CREATE_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß§É¾8ùÔ ®Þ1
+x
+java:S3008"VRename this field "INSERT_INTO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ùùÑüÿÿÿÿ8ùÔ ®Þ1
+w
+java:S3008"URename this field "SELECT_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹üü²øÿÿÿÿ8ùÔ ®Þ1
+r
+java:S3008"URename this field "DROP_TABLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÿ÷—8ùÔ ®Þ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¹©·åùÿÿÿÿ8úÔ ®Þ1
+O
+java:S6126"2Replace this String concatenation with Text block.(ß§É¾8ûÔ ®Þ1
