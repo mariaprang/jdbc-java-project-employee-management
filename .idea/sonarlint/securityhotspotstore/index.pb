@@ -26,3 +26,11 @@ i
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+_
+/src/main/java/org/database/proj/model/Role.java,2/f/2f0e88bd4e493c8149976809d9d6dbbff96f1a7e
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+g
+7src/main/java/org/database/proj/config/RoleQueries.java,7/e/7e3876aebd850b11c45bc4df8ee37a0e83174c57
